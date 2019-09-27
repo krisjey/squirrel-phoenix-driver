@@ -21,7 +21,12 @@ So, If you want to use it before, check your HBase version and then change depen
 jdbc:phoenix:youserver1,youserver2,youserver3:2181:/hbase-unsecure
 </pre>
 
-## Tested product versions.
+## Test versions.
+Check below.
+### Client
+SQuirreL SQL Client snapshot-20181011_2215
+
+### Server
 HDP 3.1<br/>
 HBase 2.0.2<br/>
 phoenix-5.0.0.3.1.0.0-78<br/>
