@@ -26,6 +26,8 @@ jdbc:phoenix:youserver1,youserver2,youserver3:2181:/hbase-unsecure
 SQuirreL SQL Client snapshot-20181011_2215
 
 ### Server
+Apache Ambari 2.7.3.0<br/>
+Ambari repo http://public-repo-1.hortonworks.com/HDP/centos7/3.x/updates/3.1.0.0 <br/>
 HDP 3.1<br/>
 HBase 2.0.2<br/>
 phoenix-5.0.0.3.1.0.0-78<br/>
