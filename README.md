@@ -1,6 +1,8 @@
 # Phoenix thick driver for squirrel client
 This driver is used for Squirrel Sql client for Thick driver.
 
+https://phoenix.apache.org/installation.html#SQL_Client
+
 ## Create phoenix thick driver jar package for SQuirreL SQL Client.
 The driver version is depends on version of Phoenix query server and Hbase version.
 
