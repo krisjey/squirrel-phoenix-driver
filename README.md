@@ -22,7 +22,6 @@ jdbc:phoenix:youserver1,youserver2,youserver3:2181:/hbase-unsecure
 </pre>
 
 ## Test versions.
-Check below.
 ### Client
 SQuirreL SQL Client snapshot-20181011_2215
 
